@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "87888057448",
+    "firebase_url": "https://login-2a11d.firebaseio.com",
+    "project_id": "login-2a11d",
+    "storage_bucket": "login-2a11d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87888057448:android:8cc39c102c1d5e65",
+        "android_client_info": {
+          "package_name": "com.example.renuka.logingmail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87888057448-01pnjr3p039if97f2rg9mv15c7pv182f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.renuka.logingmail",
+            "certificate_hash": "09defabdc7fff40e5535338bf19a1afc04a2065d"
+          }
+        },
+        {
+          "client_id": "87888057448-2eg0rihn76rk272nsugt7ulu9pfj99s0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg5rt0jt0Zx93M1UNmMcDaTYqJjTwaKHY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87888057448-2eg0rihn76rk272nsugt7ulu9pfj99s0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
